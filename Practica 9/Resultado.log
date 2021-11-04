@@ -1,0 +1,11 @@
+Thu Nov  4 16:47:48 2021: Log opened.
+Thu Nov  4 16:47:48 2021: File: C:\Users\diego\NTUSER.DAT
+Thu Nov  4 16:47:48 2021: Environment set up.
+Thu Nov  4 16:47:48 2021: Parsed Plugins file ntuser
+Thu Nov  4 16:47:48 2021: Error in : 
+PLEASE SEE THE PERL2EXE USER MANUAL UNDER "Can't locate somemodule.pm in @INC"
+FOR AN EXPLANATION OF THE FOLLOWING MESSAGE:
+Can't locate plugins\.pl in @INC (@INC contains: PERL2EXE_STORAGE C:\Users\diego\AppData\Local\Temp\Rar$EXa10356.38174 C:\Users\diego\AppData\Local\Temp/p2xtmp-2684) at C:\Users\diego\AppData\Local\Temp\Rar$EXa10356.38174\rr.exe line 272.
+
+Thu Nov  4 16:47:48 2021: 1 plugins completed with errors.
+Thu Nov  4 16:47:48 2021:  complete.
